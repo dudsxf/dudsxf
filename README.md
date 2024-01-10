@@ -1,5 +1,5 @@
 - Hi 👋, I'm Maria Eduarda
-- 🔭 I’m currently working with data analisys and visualization [Análises e visualização de dados](https://rpubs.com/dudsxf)
+- 🔭 I’m currently working with data analisys and visualization [data analisys and visualization](https://rpubs.com/dudsxf)
 - 🌱 I’m currently learning **Python, Machine Learning and R**
 - 💬 Ask me about **SQL, Google Data Studio, Power Bi, Excel and Python**
 - 📫 How to reach me **dudsxf@gmail.com**
