@@ -1,7 +1,7 @@
-- Hi 👋, I'm Maria Eduarda
-- 🔭 I’m currently working with data analisys and visualization [data analisys and visualization](https://rpubs.com/dudsxf)
-- 🌱 I’m currently learning **Python, Machine Learning and R**
-- 💬 Ask me about **SQL, Google Data Studio, Power Bi, Excel and Python**
+- 👋 Hi, I'm Duda
+- 🔭 I’m currently working at **Sicredi**
+- 🌱 I’m currently learning ** Apache Spark, Python and R**
+- 🗣️ I'd be happy to talk about any of my projects or experiences. Just reach out!
 - 📫 How to reach me **dudsxf@gmail.com**
 - 📄 Know about my experiences [www.linkedin.com/in/maria-eduarda-de-souza-055694247](www.linkedin.com/in/maria-eduarda-de-souza-055694247)
 
